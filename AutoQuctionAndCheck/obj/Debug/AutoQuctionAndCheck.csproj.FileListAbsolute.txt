@@ -1,0 +1,11 @@
+D:\个人\Study\AutoQuctionAndCheck\AutoQuctionAndCheck\bin\Debug\AutoQuctionAndCheck.exe.config
+D:\个人\Study\AutoQuctionAndCheck\AutoQuctionAndCheck\bin\Debug\AutoQuctionAndCheck.exe
+D:\个人\Study\AutoQuctionAndCheck\AutoQuctionAndCheck\bin\Debug\AutoQuctionAndCheck.pdb
+D:\个人\Study\AutoQuctionAndCheck\AutoQuctionAndCheck\obj\Debug\AutoQuctionAndCheck.csproj.AssemblyReference.cache
+D:\个人\Study\AutoQuctionAndCheck\AutoQuctionAndCheck\obj\Debug\AutoQuctionAndCheck.csproj.SuggestedBindingRedirects.cache
+D:\个人\Study\AutoQuctionAndCheck\AutoQuctionAndCheck\obj\Debug\AutoQuctionAndCheck.Form1.resources
+D:\个人\Study\AutoQuctionAndCheck\AutoQuctionAndCheck\obj\Debug\AutoQuctionAndCheck.Properties.Resources.resources
+D:\个人\Study\AutoQuctionAndCheck\AutoQuctionAndCheck\obj\Debug\AutoQuctionAndCheck.csproj.GenerateResource.cache
+D:\个人\Study\AutoQuctionAndCheck\AutoQuctionAndCheck\obj\Debug\AutoQuctionAndCheck.csproj.CoreCompileInputs.cache
+D:\个人\Study\AutoQuctionAndCheck\AutoQuctionAndCheck\obj\Debug\AutoQuctionAndCheck.exe
+D:\个人\Study\AutoQuctionAndCheck\AutoQuctionAndCheck\obj\Debug\AutoQuctionAndCheck.pdb
